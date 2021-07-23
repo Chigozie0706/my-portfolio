@@ -21,11 +21,12 @@ export const contact = {};
 export const socialLinks = {
   facebook: "https://web.facebook.com/chigozie.jacob.733",
   // facebook: "https://www.facebook.com/1hanzla100",
-  instagram: "https://www.instagram.com/1hanzla100",
-  twitter: "https://twitter.com/1hanzla100",
+  // instagram: "https://www.instagram.com/1hanzla100",
+  // twitter: "https://twitter.com/1hanzla100",
   github: "https://github.com/Chigozie0706",
   // github: "https://github.com/1hanzla100",
-  linkedin: "https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/",
+  linkedin: "https://www.linkedin.com/in/chigozie-jacob-8a4300191",
+  // linkedin: "https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/",
 };
 
 export const skillsSection = {
@@ -114,32 +115,32 @@ export const SkillBars = [
 
 export const educationInfo = [
   {
-    schoolName: "Abubarkar Tafawa Balewa University",
+    schoolName: "(In View) Abubarkar Tafawa Balewa University",
     subHeader: "Bachelor of Technology (B.Tech) in Computer Science",
-    duration: "September 2017 - April 2019",
-    desc: "Participated in the research of XXX and published 3 papers.",
-    descBullets: [
-      "Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    ],
+    duration: "March 2017 - Present",
+    // desc: "Participated in the research of XXX and published 3 papers.",
+    // descBullets: [
+    //   "Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
+    //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    // ],
   },
   {
-    schoolName: "Harvard",
-    subHeader: "Master of Science in Computer Science",
-    duration: "September 2017 - April 2019",
-    desc: "Participated in the research of XXX and published 3 papers.",
-    descBullets: [
-      "Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    ],
+    schoolName: "(In View) Dice Innovation Hub",
+    subHeader: "Industrial Attachment",
+    duration: "Febuary 2021 - Present",
+    // desc: "Participated in the research of XXX and published 3 papers.",
+    // descBullets: [
+    //   "Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
+    //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    // ],
   },
   {
-    schoolName: "Stanford University",
-    subHeader: "Bachelor of Science in Computer Science",
-    duration: "September 2013 - April 2017",
-    desc:
-      "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-    descBullets: ["Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit"],
+    schoolName: "Gateway Computer Institute",
+    subHeader: "Certificate in Computer Engineering",
+    duration: "September 2015 - April 2015",
+    // desc:
+    //   "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+    // descBullets: ["Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit"],
   },
 ];
 
@@ -176,9 +177,8 @@ export const experience = [
 
 export const projects = [
   {
-    name: "lorem ipsum",
-    desc:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    name: "Alternative Financials",
+    desc: "",
   },
   {
     name: "lorem ipsum",
