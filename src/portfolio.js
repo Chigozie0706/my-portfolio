@@ -1,19 +1,19 @@
 import emoji from "react-easy-emoji";
 
-import googlelogo from "./assets/img/icons/common/google.svg";
-import github from "./assets/img/icons/common/github.svg";
-import airbnb from "./assets/img/icons/common/airbnbLogo.png";
+// import googlelogo from "./assets/img/icons/common/google.svg";
+// import github from "./assets/img/icons/common/github.svg";
+// import airbnb from "./assets/img/icons/common/airbnbLogo.png";
 
 export const greetings = {
   name: "Chigozie Jacob",
   title: "Hi, I'm Chigozie Jacob",
   description:
     "A passionate Frontend Web Developer having an experience of building Web applications with HTML / CSS 3 / JavaScript / Reactjs  / and a little knolwedge on Server Side Rendering (Nodejs, Express, MySql).",
-  resumeLink: "https://cv.hanzla.ga",
+  resumeLink: "https://drive.google.com/file/d/1r6R22rg2mGoJ0H5mQ4VOvW98hZIDNPwO/view?usp=sharing",
 };
 
 export const openSource = {
-  githubUserName: "1hanzla100",
+  githubUserName: "chigozie0706",
 };
 
 export const contact = {};
@@ -32,7 +32,7 @@ export const socialLinks = {
 export const skillsSection = {
   title: "What I do",
   subTitle:
-    "CRAZY FRONTENT WEB DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+    "A FRONTENT WEB DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web applications"
@@ -127,7 +127,7 @@ export const educationInfo = [
   {
     schoolName: "(In View) Dice Innovation Hub",
     subHeader: "Industrial Attachment",
-    duration: "Febuary 2021 - Present",
+    duration: "Febuary 2020 - Present",
     // desc: "Participated in the research of XXX and published 3 papers.",
     // descBullets: [
     //   "Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
@@ -136,62 +136,78 @@ export const educationInfo = [
   },
   {
     schoolName: "Gateway Computer Institute",
-    subHeader: "Certificate in Computer Engineering",
-    duration: "September 2015 - April 2015",
+    subHeader: "Diploma in Computer Engineering",
+    duration: "2015",
     // desc:
     //   "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
     // descBullets: ["Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit"],
   },
+
 ];
 
 export const experience = [
   {
-    role: "Software Engineer",
-    company: "Google",
-    companylogo: googlelogo,
-    date: "June 2018 – Present",
-    desc:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    descBullets: [
-      "Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    ],
+    role: "Frontend Developer",
+    company: "Dice Innovation Hub",
+    // companylogo: googlelogo,
+    date: "Febuary 2020 – Present",
+    // desc:
+    //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    // descBullets: [
+    //   "Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
+    //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    // ],
   },
-  {
-    role: "Front-End Developer",
-    company: "Github",
-    companylogo: github,
-    date: "May 2017 – May 2018",
-    desc:
-      "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-  },
-  {
-    role: "Software Engineer Intern",
-    company: "Airbnb",
-    companylogo: airbnb,
-    date: "Jan 2015 – Sep 2015",
-    desc:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-  },
+
+
+  // {
+  //   role: "Front-End Developer",
+  //   company: "Github",
+  //   companylogo: github,
+  //   date: "May 2017 – May 2018",
+  //   desc:
+  //     "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  // },
+  // {
+  //   role: "Software Engineer Intern",
+  //   company: "Airbnb",
+  //   companylogo: airbnb,
+  //   date: "Jan 2015 – Sep 2015",
+  //   desc:
+  //     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  // },
 ];
 
 export const projects = [
+ 
   {
     name: "Alternative Financials",
-    desc: "",
-  },
-  {
-    name: "lorem ipsum",
-    desc:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-  },
-  {
-    name: "lorem ipsum",
-    desc:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    // desc:
+    //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
     link: {
-      name: "hanzla",
-      url: "kasjfklsdjf",
+      name: "View",
+      url: "https://alternative-financial.netlify.app/",
     },
   },
+
+  {
+    name: "Whatsapp Clone",
+    // desc:
+    //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    link: {
+      name: "View",
+      url: "https://whatsapp-clone8.netlify.app/",
+    },
+  },
+
+  {
+    name: "Twitter Clone",
+    // desc:
+    //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    link: {
+      name: "View",
+      url: "https://twitters-clone.netlify.app/",
+    },
+  },
+
 ];
